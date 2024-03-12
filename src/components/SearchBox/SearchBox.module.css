@@ -1,0 +1,18 @@
+.wrap {
+  max-width: 450px;
+  padding: 33px 10px;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+.text {
+  display: flex;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.input {
+  height: 30px;
+  margin-top: 10px;
+}
